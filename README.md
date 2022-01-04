@@ -3,6 +3,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaquillehinds&layout=compact&theme=gotham&langs_count=10"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shaquillehinds&count_private=true&show_icons=true&theme=gotham&hide=contribs,prs,stars,issues"/>
 
+<br />
+
 ## Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -19,7 +21,7 @@
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-##Testing
+## Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Databases
