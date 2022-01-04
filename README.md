@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏾, I'm Shaquille</h1>
 
-<p>I build cool web/mobile applications with wonderful people all over the world. Based in Barbados 🇧🇧 and currently working as Software Engineer at Seventh Ave. </p>
+<p>I build cool web/mobile applications with wonderful people all over the world. Based in Barbados 🇧🇧 and currently working as a Software Engineer at Seventh Ave. </p>
 
 ---
 
@@ -22,6 +22,7 @@
 ## Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
