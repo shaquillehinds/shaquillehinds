@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋🏾, I'm Shaquille</h1>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaquillehinds&layout=compact&theme=gotham&langs_count=10"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shaquillehinds&count_private=true&show_icons=true&theme=gotham&hide=contribs,prs,stars,issues"/>
+<p>I build cool web/mobile applications with wonderful people all over the world. Based in Barbados 🇧🇧 and currently working as Software Engineer at Seventh Ave. </p>
 
-<br />
+---
+
+<div style="padding-bottom: 1px; display: flex; justify-content: space-around; align-items: flex-start; margin-bottom: 15px">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaquillehinds&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=00000000&hide=css,Dockerfile"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaquillehinds&count_private=true&show_icons=true&theme=gotham&hide=contribs,prs,stars,issues&hide_border=true&bg_color=00000000"/>
+</div>
+
+---
+
+<h2>Links</h2>
+<a href="https://www.linkedin.com/in/shaquillehinds/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  style="padding-bottom: 1px;border-bottom: 3px green solid" />
+</a>
+<a href="https://www.upwork.com/freelancers/~014d3855d49f2fb7c8" target="_blank">
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"  style="padding-bottom: 1px;border-bottom: 3px green solid" />
+</a>
 
 ## Languages
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Libraries & Frameworks
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -19,15 +35,18 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ## Testing
+
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Databases
+
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Other
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
 <!--
 **shaquillehinds/shaquillehinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
