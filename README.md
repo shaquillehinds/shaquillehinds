@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏾, I'm Shaquille</h1>
 
-<p>I build cool web/mobile applications with wonderful people all over the world. Based in Barbados 🇧🇧 and currently working as a Software Engineer at Seventh Ave. </p>
+<p>I build cool web/mobile applications with wonderful people all over the world. Based in Barbados 🇧🇧 </p>
 
 <div style="padding-bottom: 1px; display: flex; justify-content: space-around; align-items: flex-start; margin-bottom: 15px">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaquillehinds&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=00000000&hide=css,Dockerfile"/>
