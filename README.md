@@ -4,7 +4,8 @@
 
 <div style="padding-bottom: 1px; display: flex; justify-content: space-around; align-items: flex-start; margin-bottom: 15px">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaquillehinds&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=00000000&hide=css,Dockerfile"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaquillehinds&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&hide=contribs,prs,stars,issues&hide_border=true&bg_color=00000000"/>
+<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaquillehinds&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&hide=contribs,prs,stars,issues&hide_border=true&bg_color=00000000"/> -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaquillehinds&theme=gotham&hide_border=true&background=00000000"/>
 </div>
 
 <h2>Links</h2>
